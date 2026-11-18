@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# Large dataset / model files are not committed
+data/real/
+models/*.keras
